@@ -128,7 +128,7 @@ def error(update, context):
 
 
 def get_answer():
-    updater = Updater("5135114324:AAFfzDb20BrRSYC-B-1NcJ8bIVDknRfxCrU", use_context=True)
+    updater = Updater("TOKEN, use_context=True)
     dp = updater.dispatcher
 
     # реагирование на команды
